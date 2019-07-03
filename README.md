@@ -4,5 +4,5 @@ This Powershell script permits to find all files higher than 100 Mo on your mach
 The result is saved in a file called "Gros_fichiers.txt" with the associated paths for each file.
 
 
-![Image of listBigFiles](https://github.com/S-crow/listBigFiles/bigfiles.PNG)  
+![Image of listBigFiles](https://github.com/S-crow/listBigFiles/blob/master/bigfiles.PNG)  
 
